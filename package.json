@@ -1,0 +1,35 @@
+{
+  "name": "react-native-local-auth",
+  "version": "1.5.0",
+  "description": "React Native local authentication with touch id or passcode",
+  "scripts": {
+    "test": "Echo \"no tests\" && exit 1"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tradle/react-native-local-auth.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "touch-id",
+    "passcode",
+    "react-component",
+    "react-native-component",
+    "authentication",
+    "auth",
+    "authenticate",
+    "mobile"
+  ],
+  "author": "Mark Vayngrib <mark@tradle.io> (https://github.com/mvayngrib)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tradle/react-native-local-auth/issues"
+  },
+  "homepage": "https://github.com/tradle/react-native-local-auth",
+  "peerDependencies": {
+    "react-native-passcode-status": ">=1.1.0"
+  }
+}
